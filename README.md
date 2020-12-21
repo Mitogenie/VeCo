@@ -3,8 +3,9 @@
 [![N|Solid](https://raw.githubusercontent.com/Mitogenie/VeCo/main/misc/lab-logo.png)](https://mic.med.virginia.edu/kashatus/)
 
 ## Vessel Co-option Analyzer
-[![N|Solid](https://raw.githubusercontent.com/Mitogenie/VeCo/main/misc/veco-version.png)]
-#### Mito Hacker is a tool to enable high-throughput analysis of vessel co-option in brain.
+![N|Solid](https://raw.githubusercontent.com/Mitogenie/VeCo/main/misc/veco-version.png)
+
+#### VeCo is a tool to enable high-throughput analysis of vessel co-option in brain.
 
 ##### User Interface
 VeCo offers interactive, semi graphical user interface through Jupyter notebooks.
@@ -26,8 +27,6 @@ $ pip install opencv-python==3.4.2.17
 $ pip install opencv-python==3.4.10.37
 ```
   - Jupyter file is your interface with for VeCo (The file you have to run), which depends on depend on VeCo.py to run. This module includes all the functions used in the develepment of veco, and should be in the same folder as the jupyter notebook you are running.
-
-[Go back to the top](#cellular-mitochondrial-analyzer)
 
 ### Where to start your analysis?
 ##### 1) Download the files on your computer
